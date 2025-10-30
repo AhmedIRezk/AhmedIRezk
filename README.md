@@ -35,15 +35,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/AhmedIRezk/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"/></br>
-  <img src="https://raw.githubusercontent.com/AhmedIRezk/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/AhmedIRezk/profile-summary-card-output/default/2-most-commit-language.svg"></br>
-</p>
-
----
 
 ## ⚙️ Tech Stack | **My Current Toolkit**
 
